@@ -6,9 +6,9 @@
 
 #### 个人信息
 - 周仕链/男/1995
-- 本科/[成都大学](http://www.cdu.edu.cn/)
+- 本科/[成都大学](http://www.cdu.edu.cn/)/软件工程专业
 - 工作年限：1年
-- 技术博客：http://www.92coding.club/
+- 技术博客：https://pinozhou.github.io/
 - GitHub：https://github.com/PinoZhou
 - 期望职位：Java工程师
 - 期望薪资：税前6k-10k，特别喜欢的公司可以例外
@@ -19,7 +19,7 @@
 - [GitPage](https://github.com/PinoZhou/PinoZhou.github.io)
 - [Java基础](https://github.com/PinoZhou/JavaBasicReview)
 - [可爱的Go语言](https://github.com/PinoZhou/GoBasic)
-- [技术博客](www.92coding.club)
+- [技术博客](https://pinozhou.github.io/)
 
 #### 技能清单
 > 扎实的计算机基础，了解HTTP，TCP/IP协议
@@ -53,10 +53,14 @@
     - [x] 自己每天记录生词
     - [ ] 争取2年内能无障碍阅读英文文档
 
-- [Go语言学习](https://github.com/golang/go)
+- [Go语言学习](https://github.com/PinoZhou/GoBasic)
     - [x] 将Go语言作为自己的第二门编程语言
     - [x] 通过GitHub找到的开源书籍学习
     - [ ] 争取以后能使用Go解决高并发的难题
+
+- [Spring5的学习](https://legacy.gitbook.com/book/lfvepclr/spring-framework-5-doc-cn/details)
+    - [x] 通过开源社区翻译的中文文档学习Spring5
+    - [ ] 了解Spring核心代码
 
 - [Blog](http://www.92coding.club/)
     - [x] 争取每天抽空写博客
