@@ -24,9 +24,9 @@
 #### 技能清单
 > 扎实的计算机基础，了解HTTP，TCP/IP协议
 
-> 熟悉Java的集合、IO、NIO
+> 熟悉Java的集合、IO、NIO、多线程
 
-> 理解Java面向对象思想，封装、继承、多态
+> 熟悉Java面向对象思想，封装、继承、多态
 
 > 熟悉常见数据结构与算法
 
@@ -43,7 +43,7 @@
 - 了解
     - 数据库：Oracle，Redis（学习中）
     - VPS：了解服务器的部署，自己通过学生的身份买了腾讯云的云服务
-    - 网络爬虫：[JSoup库](https://jsoup.org/)，[WebMagic框架](https://webmagic.io/)，能写简单的爬虫，但是对于模拟登录，Cookie，AJAX内容的爬取不太了解
+    - 网络爬虫：[JSoup库](https://jsoup.org/)，[WebMagic框架](https://webmagic.io/)，能写简单的爬虫
     - Docker：了解Docker，在学习Oracle过程中，嫌弃安装麻烦，就使用Docker安装了镜像，因此就关注了Go语言
 
     
