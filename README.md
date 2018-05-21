@@ -50,11 +50,11 @@
 
 #### 未来计划
 - [English study plan](https://study.163.com/course/courseMain.htm?courseId=1119010)
-    - [x] 自己每天记录生词
+    - [x] 自己每天记录生词:satisfied:
     - [ ] 争取2年内能无障碍阅读英文文档
 
 - [Go语言学习](https://github.com/PinoZhou/GoBasic)
-    - [x] 将Go语言作为自己的第二门编程语言
+    - [x] 将Go语言作为自己的第二门编程语言:sparkles:
     - [x] 通过GitHub找到的开源书籍学习
     - [ ] 争取以后能使用Go解决高并发的难题
 
@@ -67,7 +67,7 @@
     - [x] 记录自己的技术成长
 
 - [Deepin Linux](https://www.deepin.org/)
-    - [x] 这是我最喜欢的Linux发行版本（没有之一）
+    - [x] 这是我最喜欢的Linux发行版本（没有之一）:sparkles:
     - [x] 在朋友中宣传它，争取能让更多的人使用Deepin
     - [x] 在开源社区努力学习
     - [ ] 争取能为Deepin Linux提交pull request，并且被采纳
