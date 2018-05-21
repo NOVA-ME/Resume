@@ -22,16 +22,28 @@
 - [技术博客](www.92coding.club)
 
 #### 技能清单
+>扎实的计算机基础，了解HTTP，TCP/IP协议
 >熟悉Java的集合、IO、NIO、
 >理解Java面向对象思想，封装、继承、多态
 >熟悉常见数据结构与算法
->熟悉Linux基本命令，了解Bash Shell（自己的操作系统是[Deepin Linux](https://www.deepin.org/)）
-- Web开发：Java/HTML/
-- Web框架：Spring/Spring-MVC/MyBatis
-- 前端框架：JQuery/Bootstrap
-- 数据库：MySQL
-- 版本管理：Git/SVN
-- 单元测试：JUnit/Spring-Test
+
+- 熟悉
+    - Web开发：Java/HTML/
+    - Web框架：Spring/Spring-MVC/MyBatis
+    - 前端框架：JQuery/Bootstrap
+    - Markdown
+    - 数据库：MySQL
+    - 开发工具：IDEA，WebStorm，Eclipse
+    - 操作系统：熟悉Linux基本命令，了解Bash Shell（自己的操作系统是[Deepin Linux](https://www.deepin.org/)）
+    - 版本管理：Git/SVN
+    - 单元测试：JUnit/Spring-Test
+- 了解
+    - 数据库：Oracle，Redis（学习中）
+    - VPS：了解服务器的部署，自己通过学生的身份买了腾讯云的云服务
+    - 网络爬虫：[JSoup库](https://jsoup.org/)，[WebMagic框架](https://webmagic.io/)，能写简单的爬虫，但是对于模拟登录，Cookie，AJAX内容的爬取不太了解
+    - Docker：了解Docker，在学习Oracle过程中，嫌弃安装麻烦，就使用Docker安装了镜像，因此就关注了Go语言
+
+    
 
 #### 未来计划
 - [English study plan](https://study.163.com/course/courseMain.htm?courseId=1119010)
