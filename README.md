@@ -41,7 +41,7 @@
     - 数据库：Oracle，Redis（学习中）
     - VPS：了解服务器的部署
     - 网络爬虫：[JSoup库](https://jsoup.org/)，[WebMagic框架](https://webmagic.io/)，能写简单的爬虫
-    - Docker：了解Docker，在学习Oracle过程中，嫌弃安装麻烦，就使用Docker安装了镜像，因此就关注了Go语言
+    - Docker：了解Docker，在学习Oracle过程中，安装麻烦，就使用Docker安装了镜像，也因此关注了Go语言
 
 #### 未来计划
 - [English study plan](https://study.163.com/course/courseMain.htm?courseId=1119010)
