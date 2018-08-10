@@ -22,11 +22,8 @@
 ## 技能清单
 
 > 扎实的计算机基础，熟悉 HTTP，TCP/IP 协议
-
 > 熟悉 Java 的集合、IO、NIO、多线程
-
 > 熟悉 Java 面向对象思想，封装、继承、多态
-
 > 熟悉常见数据结构与算法
 
 - Web 开发：Java/HTML/
@@ -50,7 +47,7 @@
 
 - [Go](https://github.com/PinoZhou/GoBasic)
 
-  - [x] 将 Go 语言作为自己的第二门编程语言:sparkles:
+  - [x] 继续热爱 Go 语音 :sparkles:
   - [x] 通过 GitHub 找到的开源书籍学习
   - [ ] 以后能使用 Go 解决高并发的难题
 
