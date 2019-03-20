@@ -1,22 +1,21 @@
 # 个人简历
 
----
+----
 
 ## 联系方式
 
-- 邮箱：<mailto:zhoushilian1995@outlook.com> :tada:
+- 邮箱：<mailto:nova-me@outlook.com> :tada:
 
 ## 个人信息
 
 - 周仕链/男/1995
 - 本科/[成都大学](http://www.cdu.edu.cn/)/软件工程专业
-- 个人博客：[https://pinozhou.github.io/](https://pinozhou.github.io/)
-- GitHub：[https://github.com/PinoZhou](https://github.com/PinoZhou)
+- 个人博客：[https://nova-me.github.io/](https://nova-me.github.io/)
+- GitHub：[https://github.com/NOVA-ME](https://github.com/NOVA-ME)
 
 ## 开源
 
-- [学习笔记](https://github.com/PinoZhou/Note)
-- [Avalon 论坛](https://github.com/PinoZhou/Avalon)
+- [学习笔记](https://github.com/NOVA-ME/Note)
 - [Whatsoo 开源组织](https://github.com/Whatsoo)
 
 ## 技能清单
