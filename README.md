@@ -27,7 +27,7 @@
 
 - Web 开发：Java/HTML/
 - Web 框架：Spring/Spring-MVC/MyBatis
-- 前端框架：JQuery/Bootstrap
+- 前端框架：Angular
 - 数据库：MySQL，Redis
 - 开发工具：IDEA
 - 操作系统：熟悉 Linux 基本命令，了解 Bash Shell（自己使用的操作系统是[Deepin Linux](https://www.deepin.org/)）
