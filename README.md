@@ -15,7 +15,7 @@
 
 ## 开源
 
-- [学习笔记](https://github.com/NOVA-ME/Note)
+- [学习笔记](https://www.notion.so/xizhou/Notes-bf78dc0cbc164d00896f2ac4ac5c99c9#bf78dc0cbc164d00896f2ac4ac5c99c9)
 - [Whatsoo 开源组织](https://github.com/Whatsoo)
 
 ## 技能清单
@@ -33,7 +33,7 @@
 - 操作系统：熟悉 Linux 基本命令，了解 Bash Shell（自己使用的操作系统是[Deepin Linux](https://www.deepin.org/)）
 - 版本管理：Git
 - 单元测试：JUnit/Spring-Test
-- VPS：了解服务器的部署
+- VPS：熟悉Linux服务器
 - 网络爬虫：[JSoup 库](https://jsoup.org/)，[WebMagic 框架](https://webmagic.io/),Scrapy
 - Docker：了解 Docker，在学习 Oracle 过程中，安装麻烦，就使用 Docker 安装了镜像，也因此关注了 Go 语言
 
