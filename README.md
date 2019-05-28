@@ -4,7 +4,7 @@
 
 ## 联系方式
 
-- :email: ：<mailto:nova-me@outlook.com>
+- :email: ：<mailto:xi@whatsoo.org>
 
 ## 个人信息
 
@@ -15,7 +15,7 @@
 
 ## 开源
 
-- [Whatsoo 开源组织](https://github.com/Whatsoo)
+- [Whatsoo 开源组织](https://github.com/whatsoo)
 
 ## 技能清单
 
@@ -43,25 +43,23 @@
   - [x] 自己每天记录生词:satisfied:
   - [ ] 2 年内能无障碍阅读英文文档
 
-- [Go](https://github.com/PinoZhou/GoBasic)
+- [Rust](https://github.com/NOVA-ME/Rust)
 
-  - [x] 继续热爱 Go 语音 :sparkles:
-  - [x] 通过 GitHub 找到的开源书籍学习
-  - [ ] 以后能使用 Go 解决高并发的难题
+  - [x] 学习Rust语言 :sparkles:
+  - [x] 通过GitHub找到的开源书籍学习
 
-- [Spring5](https://legacy.gitbook.com/book/lfvepclr/spring-framework-5-doc-cn/details)
+- [Spring](https://spring.io)
 
-  - [x] 通过开源社区翻译的中文文档学习 Spring5
-  - [ ] 了解 Spring 核心代码
+  - [x] 学习spring全家桶
+  - [ ] 了解Spring核心代码
 
-- [博客](https://www.pinozhou.github.io)
+- [博客](https://nova-me.github.io)
 
-  - [x] 争取每天抽空写博客
+  - [x] 每天写博客
   - [x] 记录自己的技术成长
 
 - [Deepin Linux](https://www.deepin.org/)
-  - [x] 这是我最喜欢的 Linux 发行版本（没有之一）:sparkles:
-  - [x] 在朋友中宣传它，争取能让更多的人使用 Deepin
+  - [x] 最舒服的Linux发行版:sparkles:
   - [x] 在开源社区努力学习
 - 健身计划
   - [x] 通过[Keep](http://www.gotokeep.com/)来进行一些简单的运动
