@@ -62,4 +62,4 @@
   - [x] 最舒服的Linux发行版:sparkles:
   - [x] 在开源社区努力学习
 - 健身计划
-  - [x] 通过[Keep](http://www.gotokeep.com/)来进行一些简单的运动
+  - [x] 通过[Keep](http://www.gotokeep.com/)来进行一些简单的运动 
