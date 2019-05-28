@@ -4,7 +4,7 @@
 
 ## 联系方式
 
-- :email: ：<mailto:xi@whatsoo.org>
+- :email: ：[Mail to me](mailto:xi@whatsoo.org)
 
 ## 个人信息
 
