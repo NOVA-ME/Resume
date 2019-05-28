@@ -12,6 +12,7 @@
 - 2017/本科/[成都大学](http://www.cdu.edu.cn/)/软件工程专业
 - 个人博客：[https://nova-me.github.io/](https://nova-me.github.io/)
 - GitHub：[https://github.com/NOVA-ME](https://github.com/NOVA-ME)
+- 自我介绍：动漫宅，技术宅。
 
 ## 开源
 
@@ -29,11 +30,11 @@
 - 前端框架：Angular
 - 数据库：MySQL，Redis
 - 开发工具：IDEA
-- 操作系统：熟悉 Linux 基本命令
+- 操作系统：熟悉Linux基本命令
 - 版本管理：Git
 - 单元测试：JUnit/Spring-Test
 - VPS：熟悉Linux服务器
-- 网络爬虫：[JSoup 库](https://jsoup.org/)，[WebMagic 框架](https://webmagic.io/),Scrapy
+- 网络爬虫：[JSoup](https://jsoup.org/)，[WebMagic框架](https://webmagic.io/),Scrapy
 - Docker：了解 Docker,Kubernates
 
 ## 未来计划
@@ -50,7 +51,7 @@
 
 - [Spring](https://spring.io)
 
-  - [x] 学习spring全家桶
+  - [x] 学习Spring全家桶
   - [ ] 了解Spring核心代码
 
 - [博客](https://nova-me.github.io)
