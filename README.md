@@ -29,7 +29,7 @@
 - Web 框架：Spring/Spring-MVC/MyBatis/Actix-web/sqlx
 - 前端框架：Vue
 - 数据库：MySQL，Redis
-- 开发工具：IDEA
+- 开发工具：idea/vscode
 - 操作系统：熟悉Linux
 - 版本管理：Git
 - 单元测试：JUnit/Spring-Test/Cargo test
