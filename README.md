@@ -4,7 +4,7 @@
 
 ## 联系方式
 
-- :email: ：[Mail to me](mailto:xi@whatsoo.org)
+- :email: ：[Mail to me](mailto:nova-me@whatsoo.org)
 
 ## 个人信息
 
@@ -12,7 +12,7 @@
 - 2017/本科/[成都大学](http://www.cdu.edu.cn/)/软件工程专业
 - 个人博客：[https://nova-me.github.io/](https://nova-me.github.io/)
 - GitHub：[https://github.com/NOVA-ME](https://github.com/NOVA-ME)
-- 自我介绍：动漫宅，技术宅。
+- 自我介绍：动漫宅，技术宅
 
 ## 开源
 
@@ -25,16 +25,15 @@
 > 熟悉 Java 面向对象思想，封装、继承、多态
 > 熟悉常见数据结构与算法
 
-- Web 开发：Java/HTML/
-- Web 框架：Spring/Spring-MVC/MyBatis
-- 前端框架：Angular
+- Web 开发：Java/Rust/HTML/
+- Web 框架：Spring/Spring-MVC/MyBatis/Actix-web/sqlx
+- 前端框架：Vue
 - 数据库：MySQL，Redis
 - 开发工具：IDEA
-- 操作系统：熟悉Linux基本命令
+- 操作系统：熟悉Linux
 - 版本管理：Git
-- 单元测试：JUnit/Spring-Test
-- VPS：熟悉Linux服务器
-- 网络爬虫：[JSoup](https://jsoup.org/)，[WebMagic框架](https://webmagic.io/),Scrapy
+- 单元测试：JUnit/Spring-Test/Cargo test
+- 网络爬虫：[JSoup](https://jsoup.org/)，[WebMagic框架](https://webmagic.io/)
 - Docker：了解 Docker,Kubernates
 
 ## 未来计划
@@ -56,10 +55,10 @@
 
 - [博客](https://nova-me.github.io)
 
-  - [x] 每天写博客
+  - [ ] 每天写博客
   - [x] 记录自己的技术成长
 
-- [Deepin Linux](https://www.deepin.org/)
+- [Arch Linux](https://www.archlinux.org/)
   - [x] 最舒服的Linux发行版:sparkles:
   - [x] 在开源社区努力学习
 - 健身计划
